@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sergio Cavero Díaz
 
-<!--
-**scaverod/scaverod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a dedicated researcher at the **Universidad Rey Juan Carlos (URJC)**, specializing in Artificial Intelligence and Operation Research. My work focuses on developing algorithms and mathematical models to solver hard optimization problems. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact
+- **Email**: sergio.caverol@urjc.es
+- **LinkedIn**: https://www.linkedin.com/in/sergio-cavero/
+- **Twitter**: [@sergiocaverod](https://x.com/sergiocaverod)
+
+
